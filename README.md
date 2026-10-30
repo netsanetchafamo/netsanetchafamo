@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm a Computer Science Student! 👋
 
-<!--
-**netsanetchafamo/netsanetchafamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student at **Bule Hora University**, passionate about software development and building practical solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Interested in Web Development
+- 🌱 Currently improving my programming skills
+- 🔭 Working on practical software projects
+- 🎯 My goal is to become a skilled Software Developer
+
+### 🛠️ Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Java
+- Git & GitHub
+
+### 📌 What I'm Working On
+- Web-based management systems
+- Database-driven applications
+- Real-world problem-solving projects
+
+### 📫 Connect With Me
+- GitHub: You're already here!
+
+---
+
+⭐ *Learning, building, and growing one project at a time.*
