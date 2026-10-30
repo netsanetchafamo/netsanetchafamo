@@ -28,7 +28,3 @@ I'm a Computer Science student at **Bule Hora University**, passionate about sof
 
 ### 📫 Connect With Me
 - GitHub: You're already here!
-
----
-
-⭐ *Learning, building, and growing one project at a time.*
